@@ -2,6 +2,11 @@
 
 ![image](/public/screenshot.png)
 
+## React Assignment-3 -- Weather APP
+
+## [Patika Adresim](https://app.patika.dev/fuujazz)
+
+
 ## Used Technologies
 
 - Axios
